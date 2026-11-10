@@ -1,0 +1,8 @@
+BROWSER-ONLY GITHUB PAGES SETUP
+1. Sign into github.com in Windows browser.
+2. Create a new PUBLIC repository, e.g. cps-family-protection.
+3. Select Add file > Upload files. Upload the CONTENTS of this ZIP, not the ZIP itself. Commit.
+4. Open Settings > Pages > Build and deployment > Deploy from branch > main / (root) > Save.
+5. Wait for GitHub to publish. Verify every PDF link.
+6. NEVER upload signed petitions, child identities, confidential records or case details.
+7. Replace sample repository names and QR links only after verifying your published URL.
